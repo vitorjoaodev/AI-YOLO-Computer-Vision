@@ -402,7 +402,7 @@ MIT License - veja LICENSE para detalhes
 
 ## 🙋 Suporte
 
-- 📧 Email: seu-email@exemplo.com
+- 📧 Email: joaovitorpilot@outlook.com
 - 🐛 Issues: GitHub Issues
 - 💬 Discussões: GitHub Discussions
 

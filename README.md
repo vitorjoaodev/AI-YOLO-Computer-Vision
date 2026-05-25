@@ -43,7 +43,7 @@ Este é um **sistema profissional de visão computacional** para detecção de o
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/object-detection-yolo11.git
+git clone github.com/vitorjoaodev/AI-YOLO-Computer-Vision.git
 cd object-detection-yolo11
 
 # Crie um ambiente virtual
